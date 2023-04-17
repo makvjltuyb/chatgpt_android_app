@@ -1,3 +1,4 @@
 # chatgpt_android_app
 chatgpt Android App
-![chat](./Screenshot_20230405-145625.png)
+![chat1](./Screenshot_20230405-145625.png)
+![chat2](./Screenshot_20230405-145634.png) 
