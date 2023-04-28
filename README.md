@@ -1,7 +1,7 @@
 
 # chatgpt_android_app
 
-google play: https://play.google.com/store/apps/details?id=com.ralab.chatgpt
+Google Play: https://play.google.com/store/apps/details?id=com.ralab.chatgpt
 
 
 <div style="display:flex; flex-direction:row; justify-content:center;">
